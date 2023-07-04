@@ -378,7 +378,7 @@ nav.first-nav_contact div.left ul li a span {
 	font-weight: 400;
 	text-transform: uppercase;
 	color: #FFF;
-	padding: 5px 15px 0px 15px;
+	padding: 5px 15px 0px 10px;
 	transition: 0.3s;
 }
 
@@ -425,10 +425,10 @@ span.first-nav_contact-icon {
 }
 
 div.left span.first-nav_contact-icon img {
-	float: left;
-	width: 25px;
-	height: auto;
-	margin: 3px 5px 0 0;
+    float: left;
+    width: 18px;
+    height: auto;
+    margin: 5px 0px 0 30px;
 }
 
 span.first-nav_contact-icon img {
