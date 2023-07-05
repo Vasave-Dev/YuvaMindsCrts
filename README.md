@@ -1,12 +1,12 @@
-# Vasave Careers - A Vasave Business Solutions Company
+# Yuva Minds Careers 
 
-Being developed by [Sergio Garcia](mailto:Sergio@vasave.uk)
+Being developed by [Sergio Garcia](mailto:info@yuvaminds.com)
 
 ## Site Uniformity | Between all sites 
 
-### Vasave Color Scheme
+### Yuva Minds Color Scheme
 
-Based on the Vasave Logos (all Vasave logo colour schemes are uniform)
+Based on the Yuva Minds Logos (all Yuva Minds logo colour schemes are uniform)
 
 #### Primary Scheme
 
@@ -88,7 +88,7 @@ Based on the Vasave Logos (all Vasave logo colour schemes are uniform)
   - Hex Code: #F6F6F6
 
 - Google Maps:
-  - Location: Vasave Business Solutions
+  - Location: Yuva Minds
   - Width: 490px
   - Height: 490px
 
