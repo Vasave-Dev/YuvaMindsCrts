@@ -11,4 +11,4 @@ Allow: /cookies-policy.pdf
 Allow: /privacy-policy.pdf
 Allow: /termsandconditions.pdf
  
-Sitemap: https://www.youngmind.uk/sitemap.xml
+Sitemap: https://www.yuvamind.uk/sitemap.xml

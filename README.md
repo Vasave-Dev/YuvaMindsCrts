@@ -183,7 +183,7 @@ Based on the Vasave Logos (all Vasave logo colour schemes are uniform)
 
 - **Vecteezy Vector Images**
 
-C:\Young Minds website\perfect-learn\images\heading_main_border.png
+C:\Yuva Minds website\perfect-learn\images\heading_main_border.png
 
 ## Tidio Chat
 
